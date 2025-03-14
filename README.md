@@ -27,7 +27,7 @@ The most important thing is to balance the accuracy and precison of the taxon cl
 ### How to contribute?
 Our main challenge can be summarised as: **How to come up with a taxon assignment for one individual mosquito which is robust & efficient?**
 
-We are particularly interested on hearing about interdisciplinary ways to think or tackle this task. This is a difficult problem which will benefit from discussion and different perspectives. You could tackle this from a computational angle which focuses on optimisation, scalability and a balanced data set, a genomic angle which focuses on how to best sentment the genome to tackle this; or somewhere in the middle. With a lot of possible input features available, we encourage you to come up with the approach you think is best, and you would be the most interested on working with.
+We are particularly interested on hearing about interdisciplinary ways to think or tackle this task. This is a difficult problem which will benefit from discussion and different perspectives. You could tackle this from a computational angle which focuses on optimisation, scalability and a balanced data set, a genomic angle which focuses on how to best segment the genome to tackle this; or somewhere in the middle. With a lot of possible input features available, we encourage you to come up with the approach you think is best, and that would be the most interesting to work on.
 
 * If you have any additional resources or ideas that you have identified that would be of benefit for this project, or for the malaria community, we encourage you to open an issue or a pull request to include them on this repository.
 
